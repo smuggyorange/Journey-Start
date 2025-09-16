@@ -1,2 +1,2 @@
-# First python and git steps
-print("Hello world!")
+print("Hello, World!")
+print("This is my first GitHub project!")
